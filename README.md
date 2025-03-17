@@ -1,3 +1,3 @@
 # fristRepo-demo
 This is my first repository 
-AUthor- Krishna Shah
+Author- Krishna Shah (tranning)
